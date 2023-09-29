@@ -3,3 +3,5 @@
     width: 9px;
     border: 1px solid black;
 }
+/*This is a class, that when applied to a div, will create a box, with black border. 
+The height/width + border width makes the total size of the box to be 10px.*/ 
